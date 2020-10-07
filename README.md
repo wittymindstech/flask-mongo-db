@@ -1,5 +1,15 @@
 # flask-mongo-db
 
+# Install mongo db on AWS EC2 using below commands
+
+`sudo apt update`
+
+`sudo apt install -y mongodb`
+
+# Check mongodb status
+
+`sudo systemctl status mongodb`
+
 # commands to run flask app at local computer
 
 `python app.py`
