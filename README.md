@@ -72,10 +72,17 @@ user
 
 
 
+AWS EC2 Instance mongodb 
+
 ![](flask-mongo1.png)
 
 
+Local Computer Flask App
+
 ![](flask-mongo2.png)
+
+
+Local Computer Flask App
 
 
 ![](flask-mongo2.png)
