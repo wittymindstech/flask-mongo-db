@@ -82,7 +82,6 @@ Local Computer Flask App
 ![](flask-mongo2.png)
 
 
-Local Computer Flask App
+Flask API testing from Browser
 
-
-![](flask-mongo2.png)
+![](flask-mongo3.png)
