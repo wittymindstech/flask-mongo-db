@@ -1,10 +1,10 @@
 # flask-mongo-db
 
-# commands to run flask app
+# commands to run flask app at local computer
 
 `python app.py`
 
-# Output
+# Output at my local computer
 
 <flask_pymongo.PyMongo object at 0x7ff2842f7890>
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
