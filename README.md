@@ -62,10 +62,10 @@ user
 
 
 
-![](flask-mongo1.PNG)
+![](flask-mongo1.png)
 
 
-![](flask-mongo2.PNG)
+![](flask-mongo2.png)
 
 
-![](flask-mongo2.PNG)
+![](flask-mongo2.png)
