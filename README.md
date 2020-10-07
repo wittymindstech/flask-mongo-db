@@ -57,3 +57,15 @@ user
 > db.flask.find()
 { "_id" : ObjectId("5f7d6cf6099bfc45bd1c7ee7"), "location" : "apac-blr" }
 > 
+
+
+
+
+
+![](flask-mongo1.PNG)
+
+
+![](flask-mongo2.PNG)
+
+
+![](flask-mongo2.PNG)
